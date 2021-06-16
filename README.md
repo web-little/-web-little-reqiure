@@ -1,6 +1,8 @@
 # 自己实现的require
 
-<img style="width: 150px; margin: 0 auto;" src="./assets/logo.png" />
+<p style="width: 150px;" align="center">
+    <img src="./assets/logo.png" />
+</p>
 <p align="center">
     <a href="javascript:;"><img src="https://img.shields.io/github/license/zhukunpenglinyutong/notes.svg" alt="MIT"></a>
     <a href="javascript:;"><img src="https://img.shields.io/github/languages/code-size/web-little/web-little-reqiure" alt="文件大小"></a>
