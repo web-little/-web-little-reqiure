@@ -1,7 +1,7 @@
 # 自己实现的require
 
-<p style="width: 150px;" align="center">
-    <img src="./assets/logo.png" />
+<p align="center">
+    <img width="150px" src="./assets/logo.png" />
 </p>
 <p align="center">
     <a href="javascript:;"><img src="https://img.shields.io/github/license/zhukunpenglinyutong/notes.svg" alt="MIT"></a>
